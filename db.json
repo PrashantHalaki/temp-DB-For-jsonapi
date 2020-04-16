@@ -8,12 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "resume":[
-    {"id":1,"user":1,"file":"https://scx2.b-cdn.net/gfx/news/hires/2018/natureinstee.jpg"},
-  ],
-  "users":[
-    {"id":1,"name":"Arun","email":"arun@gmail.com"}
-  ],
   "profile": {
     "name": "typicode"
   }
